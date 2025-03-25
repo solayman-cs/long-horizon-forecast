@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+torchvision
+scikit-learn
+matplotlib
+datasets
+wfdb
+
