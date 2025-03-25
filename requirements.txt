@@ -2,14 +2,12 @@ numpy
 pandas
 matplotlib
 seaborn
-mlforecast
 numba
 window_ops
-lightgbm
 utilsforecast
-torchvision
 scikit-learn
-matplotlib
-datasets
+mlforecast
+lightgbm
+torchvision
 timesfm
 
