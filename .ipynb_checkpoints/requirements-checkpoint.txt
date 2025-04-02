@@ -1,9 +1,14 @@
 numpy
 pandas
+polars
 matplotlib
-torchvision
+seaborn
+numba
+window_ops
+utilsforecast
 scikit-learn
-matplotlib
-datasets
-wfdb
+mlforecast
+lightgbm
+torchvision
+timesfm
 
