@@ -14,4 +14,4 @@ jax[cuda12]
 torchvision
 chronos-forecasting
 timesfm
-
+nixtla
