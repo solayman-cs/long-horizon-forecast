@@ -4,11 +4,14 @@ polars
 matplotlib
 seaborn
 numba
+tqdm
 window_ops
 utilsforecast
 scikit-learn
 mlforecast
 lightgbm
+jax[cuda12]
 torchvision
+chronos-forecasting
 timesfm
 
