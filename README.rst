@@ -15,22 +15,27 @@ Make sure `conda <https://www.anaconda.com/>`_ is installed.
     git clone https://github.com/solayman-cs/long-horizon-forecast.git
     cd long-horizon-forecast/
 
-# create environment
 .. code-block:: bash
-    conda create --name long_horizon python=3.11.0 
 
-# activate the environment 	
+    # create environment
+    conda create --name long_horizon python=3.11.0 
+	
 .. code-block:: bash
+
+   # activate the environment 
    conda activate long_horizon
 
-# install dependencies
 .. code-block:: bash
+
+    # install dependencies
     pip install -r requirements.txt
 
-# Attach environment into jupyter notebook
 .. code-block:: bash
+
     pip install ipykernel 
 	
 .. code-block:: bash
+
+    # Attach environment into jupyter notebook
     python -m ipykernel install --user --name  long_horizon --display-name "long_horizon" 
 
