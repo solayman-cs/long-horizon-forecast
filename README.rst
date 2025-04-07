@@ -8,28 +8,28 @@ Installation
 
 Make sure `conda <https://www.anaconda.com/>`_ is installed.
 
-Clone the repo
+### Clone the repo
 .. code-block:: bash
 
     git clone https://github.com/solayman-cs/long-horizon-forecast.git
     cd long-horizon-forecast/
 
-Create environment
+### Create environment
 .. code-block:: bash
 
     conda create --name long_horizon python=3.11.0 
 
-Activate the environment 	
+### Activate the environment 	
 .. code-block:: bash
 
    conda activate long_horizon
 
-Install dependencies
+### Install dependencies
 .. code-block:: bash
 
     pip install -r requirements.txt
 
-Attach environment into `jupyter` notebook
+### Attach environment into `jupyter` notebook
 .. code-block:: bash
 
     pip install ipykernel 
