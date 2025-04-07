@@ -1,6 +1,6 @@
 Long Horizon Forecasting
 ===========
-- Model: LightGBM and TimesFM 
+- Model: LightGBM, Chronos, TimeGPT and TimesFM 
 
 
 Installation
