@@ -1,6 +1,6 @@
 Long Horizon Forecasting
 ===========
-- Model: LightGBM and TimesFM 
+- Model: LightGBM, Chronos, TimeGPT and TimesFM 
 
 
 Installation
@@ -19,7 +19,11 @@ Make sure `conda <https://www.anaconda.com/>`_ is installed.
 
     # create environment
     conda create --name long_horizon python=3.11.0 
-	conda activate long_horizon
+	
+.. code-block:: bash
+
+   # activate the environment 
+   conda activate long_horizon
 
 .. code-block:: bash
 
@@ -28,8 +32,10 @@ Make sure `conda <https://www.anaconda.com/>`_ is installed.
 
 .. code-block:: bash
 
-    # Attach environment into jupyter notebook
     pip install ipykernel 
-	python -m ipykernel install --user --name  long_horizon --display-name "long_horizon" 
+	
+.. code-block:: bash
 
+    # Attach environment into jupyter notebook
+    python -m ipykernel install --user --name  long_horizon --display-name "long_horizon" 
 
