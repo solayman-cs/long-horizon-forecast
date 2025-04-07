@@ -8,16 +8,16 @@ Installation
 
 Make sure `conda <https://www.anaconda.com/>`_ is installed.
 
-### Clone the repo
-.. code-block:: bash
-
+Clone the repo
+```shell
     git clone https://github.com/solayman-cs/long-horizon-forecast.git
     cd long-horizon-forecast/
+```
 
-### Create environment
-.. code-block:: bash
-
+Create environment
+```shell
     conda create --name long_horizon python=3.11.0 
+```
 
 ### Activate the environment 	
 .. code-block:: bash
